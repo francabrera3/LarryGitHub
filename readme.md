@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Fran Cabrera**, Git lover
+**Fran Cabrera**, Git & Larry Ploter lover
